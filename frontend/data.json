@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "5f56f94c4aaec087e2cb248d",
+        "author": "A1",
+        "title": "My first blog",
+        "abstract": "An abstract",
+        "body": "body text here body text here body text here body text here",
+        "imageUrl": "www.randomimagelink.com/image",
+        "comments": [
+            {
+                "_id": "5f56fde19a9b1b8e1601997b",
+                "commenter": "Comm1",
+                "title": "commentTitle",
+                "comment": "A good and nice comment  on blog 1!!"
+            },
+            {
+                "_id": "5f56ff16083f2ce55605576a",
+                "commenter": "Comm1",
+                "title": "commentTitle",
+                "comment": "Another good and nice comment !!"
+            }
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "5f56f94c4aaec087e2cb248e",
+        "author": "A2",
+        "title": "next blog is here",
+        "abstract": "A1 abstract",
+        "body": "body text here body text here body text here body text here",
+        "imageUrl": "www.randomimagelink.com/image",
+        "comments": [
+            {
+                "_id": "5f56fde19a9b1b8e1601997b",
+                "commenter": "Comm1",
+                "title": "commentTitle",
+                "comment": "A good and nice comment  on blog 2!!"
+            },
+            {
+                "_id": "5f56ff16083f2ce55605576a",
+                "commenter": "Comm1",
+                "title": "commentTitle",
+                "comment": "Another good and nice comment !!"
+            }
+        ],
+        "__v": 0
+    }
+]
+
+
