@@ -1,4 +1,4 @@
-# back-end all end points working perfectly, POSTMAN tested.
+# back-end all end points working perfectly, POSTMAN tested. Comments are pushed into an array.
 
 # front-end Typescript is setup with displayProducts.html file being dynamically updated.
 
